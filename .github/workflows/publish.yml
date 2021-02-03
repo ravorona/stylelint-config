@@ -26,7 +26,7 @@ jobs:
       - name: Publish to NPM Registry
         run: npm publish
         args:
-          - --access public
+          - '--access public'
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
