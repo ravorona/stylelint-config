@@ -1,0 +1,20 @@
+{
+  "name": "@ravorona/stylelint-config",
+  "version": "1.0.0",
+  "description": "Stylelint configuration",
+  "main": ".stylelintrc",
+  "repository": "git@github.com:ravorona/stylelint-config.git",
+  "author": "яαvoroηα <h.rakotonjanahary@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "ravorona",
+    "stylelint",
+    "stylelintconfig"
+  ],
+  "peerDependencies": {
+    "stylelint": "^13.9.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
