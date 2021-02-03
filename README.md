@@ -19,7 +19,7 @@ npm i --save-dev \
 Set extends property inside your [Stylelint configuration](https://stylelint.io/user-guide/configure)
 ```json
 {
-    "extends": "@ravorona/stylelint",
+    "extends": "@ravorona/stylelint-config",
     "rules": {}
 }
 ```
