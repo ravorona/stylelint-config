@@ -28,7 +28,8 @@
           "function",
           "warn",
           "return",
-          "mixin"
+          "mixin",
+          "export"
         ]
       }
     ],
