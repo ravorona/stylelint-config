@@ -4,15 +4,11 @@ Stylesheet style guide using [Stylelint](https://stylelint.io)
 ## Install
 Yarn:
 ```bash
-yarn add -D \
-    @ravorona/stylelint-config
-    stylelint
+yarn add -D @ravorona/stylelint-config stylelint
 ```
 NPM:
 ```bash
-npm i --save-dev \
-    @ravorona/stylelint-config
-    stylelint
+npm i --save-dev @ravorona/stylelint-config stylelint
 ```
 
 ## Usage
