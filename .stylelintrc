@@ -1,6 +1,7 @@
 {
   "extends": "stylelint-config-standard",
   "rules": {
+    "alpha-value-notation": "number",
     "at-rule-name-space-after": "always",
     "at-rule-no-unknown": [
       true,
