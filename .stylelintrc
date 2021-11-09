@@ -30,7 +30,8 @@
           "warn",
           "return",
           "mixin",
-          "export"
+          "export",
+          "use"
         ]
       }
     ],
