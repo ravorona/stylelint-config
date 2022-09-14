@@ -1,6 +1,6 @@
 {
   "name": "@ravorona/stylelint-config",
-  "version": "2.1.3",
+  "version": "2.2.0",
   "description": "Stylelint configuration",
   "main": ".stylelintrc",
   "repository": "git@github.com:ravorona/stylelint-config.git",
@@ -12,10 +12,10 @@
     "stylelintconfig"
   ],
   "peerDependencies": {
-    "stylelint": "^13.13.0",
+    "stylelint": "^14.11.0",
     "stylelint-config-standard": "^22.0.0"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   }
 }
