@@ -12,10 +12,10 @@
     "stylelintconfig"
   ],
   "peerDependencies": {
-    "stylelint": "^13.13.0",
+    "stylelint": "^14.11.0",
     "stylelint-config-standard": "^22.0.0"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
   }
 }
