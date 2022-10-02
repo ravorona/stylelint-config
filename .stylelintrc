@@ -9,7 +9,7 @@
                     "default"
                 ]
             }
-        ]
+        ],
         "at-rule-name-space-after": "always",
         "at-rule-no-unknown": [
             true,
