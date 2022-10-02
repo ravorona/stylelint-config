@@ -1,3 +1,10 @@
+### [2.2.3](https://github.com/ravorona/stylelint-config/compare/2.2.2...2.2.3) (2022-10-02)
+
+
+### Bug Fixes
+
+* Rules error ([317f133](https://github.com/ravorona/stylelint-config/commit/317f1336ce8c8a6ada9a0d1fb0977ed71534ffa9))
+
 ### [2.2.2](https://github.com/ravorona/stylelint-config/compare/2.2.1...2.2.2) (2022-10-02)
 
 
