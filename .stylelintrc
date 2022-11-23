@@ -60,7 +60,6 @@
         "declaration-block-semicolon-newline-before": "never-multi-line",
         "declaration-block-semicolon-space-after": "never-single-line",
         "declaration-block-semicolon-space-before": "never",
-        "declaration-colon-newline-after": "always-multi-line",
         "declaration-colon-space-after": "always-single-line",
         "declaration-colon-space-before": "never",
         "declaration-empty-line-before": null,
