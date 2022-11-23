@@ -1,3 +1,10 @@
+### [2.2.4](https://github.com/ravorona/stylelint-config/compare/2.2.3...2.2.4) (2022-11-23)
+
+
+### Features
+
+* Remove declaration-colon-newline-after ([2dc6d7d](https://github.com/ravorona/stylelint-config/commit/2dc6d7d8c5f217813313733067e3bc5eadc9f9de))
+
 ### [2.2.3](https://github.com/ravorona/stylelint-config/compare/2.2.2...2.2.3) (2022-10-02)
 
 
