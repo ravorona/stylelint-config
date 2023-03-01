@@ -39,7 +39,8 @@
                     "return",
                     "mixin",
                     "export",
-                    "use"
+                    "use",
+                    "tailwind"
                 ]
             }
         ],

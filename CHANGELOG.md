@@ -1,3 +1,10 @@
+### [2.2.5](https://github.com/ravorona/stylelint-config/compare/2.2.4...2.2.5) (2023-03-01)
+
+
+### Features
+
+* Ignore tailwind at rule ([923aa7c](https://github.com/ravorona/stylelint-config/commit/923aa7ce071003e6186826da69b3d2fb01b9c445))
+
 ### [2.2.4](https://github.com/ravorona/stylelint-config/compare/2.2.3...2.2.4) (2022-11-23)
 
 
