@@ -1,6 +1,6 @@
 {
   "name": "@ravorona/stylelint-config",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "description": "Stylelint configuration",
   "main": ".stylelintrc",
   "repository": "git@github.com:ravorona/stylelint-config.git",
