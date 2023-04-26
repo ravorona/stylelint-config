@@ -1,3 +1,15 @@
+### [2.2.6](https://github.com/ravorona/stylelint-config/compare/2.2.5...2.2.6) (2023-04-26)
+
+
+### Features
+
+* Stylelint 15 ([74762e7](https://github.com/ravorona/stylelint-config/commit/74762e78ce822944e60899f4bf1c7e8ab9f4ec09))
+
+
+### Bug Fixes
+
+* Deprecated rules ([d2ebf50](https://github.com/ravorona/stylelint-config/commit/d2ebf50463d5e332d9c70f78b363089661b2a056))
+
 ### [2.2.5](https://github.com/ravorona/stylelint-config/compare/2.2.4...2.2.5) (2023-03-01)
 
 
