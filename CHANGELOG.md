@@ -1,3 +1,10 @@
+## [2.2.7](https://github.com/ravorona/stylelint-config/compare/2.2.6...2.2.7) (2024-04-07)
+
+
+### Features
+
+* Stylelint 16 ([2b8f575](https://github.com/ravorona/stylelint-config/commit/2b8f575470d1facd4d9a8122e644beb13b3a8c0f))
+
 ### [2.2.6](https://github.com/ravorona/stylelint-config/compare/2.2.5...2.2.6) (2023-04-26)
 
 
